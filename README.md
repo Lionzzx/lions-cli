@@ -1,5 +1,5 @@
 # lion list
 
-# lion <project> <filename>
+# lion project filename
 
 
